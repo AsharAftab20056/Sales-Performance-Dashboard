@@ -45,7 +45,7 @@ It showcases **KPIs, DAX measures, and multiple visualizations** for better deci
 ## ⚙ Tools & Technologies
 - **Power BI**
 - **DAX**
-- **CSV Data Processing** (Python for preprocessing)
+- **CSV Data Processing** (Preprocessing in Power BI)
 - **Data Visualization**
 
 ---
@@ -76,4 +76,5 @@ Click Here to Get Dataset: https://drive.google.com/file/d/1I_zipkgwK541NOM46vmS
 ---
 
 > If you found this project useful or insightful, consider giving it a ⭐ on GitHub!
+
 
